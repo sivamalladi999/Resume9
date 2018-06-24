@@ -1,0 +1,24 @@
+{
+"basics":{
+  "Name": "siva",
+  "email": "sivamalladi305@gmail.com",
+  "mobile": "9390733999"
+},
+"education":[
+{
+  "degree":"B.tech",
+  "Institute":"PSCMR",
+  "data":["2015-19","79%"]
+},
+{
+  "degree":"Intermediate/Diploma",
+  "Institute":"NARAYANA",
+  "data":["2013-15","90%"]
+},
+{
+  "degree":"SSC",
+  "Institute":"Sri Vijetha Public School",
+  "data":["2012-13","9.2"]
+}
+]
+}
